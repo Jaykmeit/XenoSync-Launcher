@@ -1,7 +1,7 @@
 [
   {
     "id": "a21-labcoat",
-    "title": "Nombre del mod",
+    "title": "Android 21 (Good) Lab Costume",
     "description": "Lab Coat costume for Android 21 (Good)",
     "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/android-21-good-lab-coat",
     "downloadUrl": "https://www.patreon.com/file?h=162509291&m=690806256",
@@ -40,4 +40,21 @@
       "https://www.patreon.com/file?h=100597938&m=340348566",
     ],
     "category": "Optional"
+  },
+  {
+    "id": "chi-chi",
+    "title": "Chi-chi (Voiced)",
+    "description": "Chi-chi (end of Dragon Ball) as a playable character",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/dragon-ball-xv2-chi-chi-voiced-1096574",
+    "downloadUrl": "https://www.patreon.com/file?h=144795502&m=573501060",
+    "category": "XenoSyncCore"
+  },
+  {
+    "id": "chi-chi-revamp-dyt",
+    "title": "Chi-chi (Voiced) Revamp DYTs",
+    "description": "Recolors Chi-chi to have the resemblance needed with Revamp's recoloring on characters",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/revamp-50-dyts-for-inviernocreations-chi-chi",
+    "downloadUrl": "https://www.patreon.com/file?h=147108182&m=589405532",
+    "parent": "chi-chi",
+    "category": "XenoSyncCore"
   }
