@@ -66,5 +66,29 @@
     "parent": "chi-chi",
     "category": "XenoSyncCore",
     "screenshotUrls": ["https://uploads.videogamemods.com/mod-images/69684b24-56c0-4ddc-88e5-c934fba4111c/1767379002187-Title_Card.webp"]
+  },
+  {
+    "id": "lazybones-revamp-patch-3",
+    "title": "Lazybones (Revamp Patch 3.0)",
+    "description": "Gives enhanced QOL transformations",
+    "author": "TheAllenBros04/T",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/lazybones-revamp-patch-3-0-1083832",
+    "downloadUrl": "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/files/1728699195_Lazybones-Revamp-Patch-3.0.rar",
+    "category": "XenoSyncCore",
+    "screenshotUrls": [
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/8_fec9dd07.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/11_8124b857.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/13_8c733ab9.webp",
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/13_8c733ab9.webp"]
+  },
+  {
+    "id": "revamp-organized-slots",
+    "title": "Revamp Organized Slots",
+    "description": "Modded slots of Modded Original Characters next to Vanilla Original Characters",
+    "author": "PIPE",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/revamp-5-0-organized-slots-1082874",
+    "downloadUrl": "https://uploads.videogamemods.com/communities/the-citadel/mods/revamp-5-0-organized-slots-1082874-0232cb55-29e5-4c88-b3cb-c32c2a0fb9e0/files/1767216816886-XV2P_SLOTS_5_1_1.rar",
+    "category": "XenoSyncCore",
+    "screenshotUrls": ["https://uploads.videogamemods.com/communities/the-citadel/mods/revamp-5-0-organized-slots-1082874-0232cb55-29e5-4c88-b3cb-c32c2a0fb9e0/images/0_4bab53ff.webp"]
   }
 ]
