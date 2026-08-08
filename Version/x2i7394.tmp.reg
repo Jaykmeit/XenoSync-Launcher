@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\X2MMod\shell\open\command]
+@="C:\\Program Files (x86)\\Steam\\steamapps\\common\\DB Xenoverse 2 REVAMP\\xv2ins.exe \"%1\""
+[HKEY_CURRENT_USER\Software\Classes\X2MMod\shell\Edit\command]
+@="C:\\Program Files (x86)\\Steam\\steamapps\\common\\DB Xenoverse 2 REVAMP\\xv2characreat.exe \"%1\""
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\X2MMod\shell\open\command]
+@="C:\\Program Files (x86)\\Steam\\steamapps\\common\\DB Xenoverse 2 REVAMP\\xv2ins.exe \"%1\""
+[HKEY_CURRENT_USER\Software\Classes\X2MMod\shell\Edit\command]
+@="C:\\Program Files (x86)\\Steam\\steamapps\\common\\DB Xenoverse 2 REVAMP\\xv2characreat.exe \"%1\""
+[HKEY_CURRENT_USER\Software\Classes\.x2m]
+@="X2MMod"
