@@ -68,6 +68,34 @@
     "screenshotUrls": ["https://uploads.videogamemods.com/mod-images/69684b24-56c0-4ddc-88e5-c934fba4111c/1767379002187-Title_Card.webp"]
   },
   {
+    "id": "kid-goku",
+    "title": "Innocent Challenger - Kid Goku",
+    "description": "Kid Goku playable character for Xenoverse 2.",
+    "author": "KaitoKid Mankyuu",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/innocent-challenger-kid-goku-1088365",
+    "downloadUrl": "https://www.patreon.com/file?h=121304504&m=415388331",
+    "category": "XenoSyncCore",
+    "screenshotUrls": [
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/innocent-challenger-kid-goku-1088365-0e588e8c-10b9-4940-a9d6-6d5a607bc74d/images/9_f1dedae0.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/innocent-challenger-kid-goku-1088365-0e588e8c-10b9-4940-a9d6-6d5a607bc74d/images/3_c2e80318.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/innocent-challenger-kid-goku-1088365-0e588e8c-10b9-4940-a9d6-6d5a607bc74d/images/1_a6c06f9c.webp",
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/innocent-challenger-kid-goku-1088365-0e588e8c-10b9-4940-a9d6-6d5a607bc74d/images/4_73cecb06.webp"]
+  },
+    {
+    "id": "king-piccolo",
+    "title": "Demon King Piccolo (5.0+)",
+    "description": "King Piccolo playable character for Xenoverse 2 (Revamp).",
+    "author": "TCG Cardcast",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/demon-king-piccolo-5-0-update-1078159",
+    "downloadUrl": "https://uploads.videogamemods.com/communities/the-citadel/mods/demon-king-piccolo-5-0-update-1078159-cc661d5c-8db9-44c1-a7b8-a976abf9c898/files/1731485406_DB-King-Piccolo.x2m",
+    "category": "XenoSyncCore",
+    "screenshotUrls": [
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/demon-king-piccolo-5-0-update-1078159-cc661d5c-8db9-44c1-a7b8-a976abf9c898/images/0_c3755925.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/demon-king-piccolo-5-0-update-1078159-cc661d5c-8db9-44c1-a7b8-a976abf9c898/images/3_5b2dd8ca.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/demon-king-piccolo-5-0-update-1078159-cc661d5c-8db9-44c1-a7b8-a976abf9c898/images/1_1b2d27e1.webp",
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/demon-king-piccolo-5-0-update-1078159-cc661d5c-8db9-44c1-a7b8-a976abf9c898/images/4_dd9173dc.webp"]
+  },
+  {
     "id": "lazybones-revamp-patch-3",
     "title": "Lazybones (Revamp Patch 3.0)",
     "description": "Gives enhanced QOL transformations.",
