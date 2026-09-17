@@ -81,6 +81,21 @@
       "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/13_8c733ab9.webp",
       "https://uploads.videogamemods.com/communities/the-citadel/mods/lazybones-revamp-patch-3-0-1083832-cd35318f-28a5-49f7-8f6b-5a4d6b5cd9fb/images/4_b1b756e7.webp"]
   },
+    {
+    "id": "dynamic-lazybones-transformations",
+    "title": "Dynamic Lazybones Transformations",
+    "description": "Additions to Lazybones, giving dynamic hair effects to transformations.",
+    "author": "TheAllenBros04/T",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/dynamic-lazybones-transformations-1082585",
+    "downloadUrl": "https://uploads.videogamemods.com/communities/the-citadel/mods/dynamic-lazybones-transformations-1082585-7b8a4314-c52d-401b-97d2-ce86082c907a/files/1725918432_Dynamic-Transformations-LB-REV.-Edit.rar",
+    "parent": "lazybones-revamp-patch-3",
+    "category": "XenoSyncCore",
+    "screenshotUrls": [
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/dynamic-lazybones-transformations-1082585-7b8a4314-c52d-401b-97d2-ce86082c907a/images/0_5e3ac1dc.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/dynamic-lazybones-transformations-1082585-7b8a4314-c52d-401b-97d2-ce86082c907a/images/3_afca0acf.webp", 
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/dynamic-lazybones-transformations-1082585-7b8a4314-c52d-401b-97d2-ce86082c907a/images/8_f1f83922.webp",
+      "https://uploads.videogamemods.com/communities/the-citadel/mods/dynamic-lazybones-transformations-1082585-7b8a4314-c52d-401b-97d2-ce86082c907a/images/5_5869f741.webp"]
+  },
   {
     "id": "revamp-organized-slots",
     "title": "Revamp Organized Slots",
