@@ -88,6 +88,7 @@
   },
   {
     "id": "chi-chi-revamp-dyt",
+    "mergeTargetSubfolder": "data/chara/CHI",
     "title": "Chi-chi (Voiced) Revamp DYTs",
     "description": "Recolors Chi-chi to have the resemblance needed with Revamp's on characters.",
     "author": "SaiyanHiveMind",
