@@ -1,5 +1,20 @@
 [
   {
+    "id": "sparking-park",
+    "title": "Sparking Park",
+    "description": "Mod that enhances the experience like a DLC would. Includes 4 Characters, Skills, Costumes and PQs",
+    "author": "KaitoKid Mankyuu",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590",
+    "downloadUrl": "https://www.patreon.com/file?h=112912419&m=601759763",
+    "category": "XenoSyncCore",
+    "screenshotUrls": 
+    ["https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/0_c615056d.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/3_251e11d4.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/9_78fa015b.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/16_25dd52bf.webp" 
+    ]
+  },
+  {
     "id": "a21-labcoat",
     "title": "Android 21 (Good) Lab Costume",
     "description": "Lab Coat costume for Android 21 (Good).",
