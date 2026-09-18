@@ -1,5 +1,5 @@
 [
-  {
+    {
     "id": "sparking-pack",
     "title": "Sparking Pack",
     "description": "Mod that enhances the experience like a DLC would. Includes 4 Characters, Skills, Costumes and PQs",
@@ -12,6 +12,21 @@
      "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/3_251e11d4.webp",
      "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/9_78fa015b.webp",
      "https://uploads.videogamemods.com/communities/the-citadel/mods/sparking-pack-4-characters-skills-cac-costumes-pq-1083590-74e77fdd-38e9-40a7-98a3-e5777b433999/images/16_25dd52bf.webp" 
+    ]
+  },
+  {
+    "id": "kaito-ssj4",
+    "title": "Ultimate Primal Power: Super Saiyan 4!",
+    "description": "Detailed SSJ4 transformation, with damage boost and damage reduction.",
+    "author": "KaitoKid Mankyuu",
+    "pageUrl": "https://videogamemods.com/the-citadel/dragon-ball-xenoverse-2/mods/ultimate-primal-power-super-saiyan-4",
+    "downloadUrl": "https://www.patreon.com/file?h=95135532&m=707418230",
+    "category": "XenoSyncCore",
+    "screenshotUrls": 
+    ["https://uploads.videogamemods.com/communities/the-citadel/mods/ultimate-primal-power-super-saiyan-4-868a458d-9f18-4810-a10d-e0bab4c08c25/images/1785305948429-SS4.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/ultimate-primal-power-super-saiyan-4-868a458d-9f18-4810-a10d-e0bab4c08c25/images/8_be91f847.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/ultimate-primal-power-super-saiyan-4-868a458d-9f18-4810-a10d-e0bab4c08c25/images/4_92034178.webp",
+     "https://uploads.videogamemods.com/communities/the-citadel/mods/ultimate-primal-power-super-saiyan-4-868a458d-9f18-4810-a10d-e0bab4c08c25/images/3_74b0de50.webp" 
     ]
   },
   {
